@@ -1,0 +1,552 @@
+{
+  "code": 0,
+  "data": {
+    "has_next": 1,
+    "list": [
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/37d8e3c68e42d3aa4869d9a60f502cd91b984977.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/11b0f74aa71224981477351d18e4607e5c357f06.jpg",
+          "ep_id": 604275
+        },
+        "index_show": "2022年6月30日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss41937?theme=movie",
+        "media_id": 28338128,
+        "order": "1.7亿次播放",
+        "order_type": "2",
+        "score": "",
+        "season_id": 41937,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "青年导演脑洞之作",
+        "title": "大世界扭蛋机",
+        "title_icon": ""
+      },
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/371e9be67b2ae3938a8bafa2b80b466268f34b9d.jpg",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/96a3cd3740536a5b36635f5e6a423f9f0365e698.jpg",
+          "ep_id": 199612
+        },
+        "index_show": "2010年12月16日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss12548?theme=movie",
+        "media_id": 80952,
+        "order": "1.7亿次播放",
+        "order_type": "2",
+        "score": "9.9",
+        "season_id": 12548,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "姜文黑色喜剧",
+        "title": "让子弹飞",
+        "title_icon": ""
+      },
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/59d1bd956f1f63dd6fe7da5782da1f158ed192bc.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/f70ae86f005ad7eae69afd77c165ba3a4d0c09ac.jpg",
+          "ep_id": 469285
+        },
+        "index_show": "2021年11月11日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss39892?theme=movie",
+        "media_id": 28235586,
+        "order": "1亿次播放",
+        "order_type": "2",
+        "score": "9.6",
+        "season_id": 39892,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "新春独播上线！",
+        "title": "扬名立万",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7d63615d0749d8fe2ce161d155ac1c8198869591.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/1d9b5ead0eaf7c145d39be0877ee6b677c0a54a8.png",
+          "ep_id": 673044
+        },
+        "index_show": "2022年3月17日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss42715?theme=movie",
+        "media_id": 28339083,
+        "order": "9797.9万次播放",
+        "order_type": "2",
+        "score": "9.6",
+        "season_id": 42715,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "天生“坏蛋”想从良",
+        "title": "坏蛋联盟",
+        "title_icon": ""
+      },
+      {
+        "badge": "出品",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "出品"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6e31596b18f5992c70bc957773872b8c5c3e486f.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/5c34ceef4143f91fa7efb3764c6a4f8764f2b1ba.png",
+          "ep_id": 692437
+        },
+        "index_show": "2022年8月19日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss43055?theme=movie",
+        "media_id": 28339259,
+        "order": "9003.8万次播放",
+        "order_type": "2",
+        "score": "8.4",
+        "season_id": 43055,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "共赴古风非凡冒险",
+        "title": "新神榜：杨戬",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/32a08ede8cdcf941b0a2d2ceddd6c1b991c64699.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/bangumi/ce7cfea13b30032c55f00609d3c997343b961bb6.jpg",
+          "ep_id": 402380
+        },
+        "index_show": "2021年3月18日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss38552?theme=movie",
+        "media_id": 28234241,
+        "order": "8664.1万次播放",
+        "order_type": "2",
+        "score": "9.8",
+        "season_id": 38552,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "最全DC宇宙阵容集结！",
+        "title": "正义联盟：扎克·施奈德版",
+        "title_icon": ""
+      },
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c0bab4b14061be964f90a9a6e1d83149168b115f.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/4a5d8588f195e9c7c556ccb0a5e38388214c90d0.jpg",
+          "ep_id": 517848
+        },
+        "index_show": "2022年6月23日上映",
+        "is_finish": 0,
+        "link": "https://www.bilibili.com/bangumi/play/ss41936?theme=movie",
+        "media_id": 28338126,
+        "order": "8628万次播放",
+        "order_type": "2",
+        "score": "",
+        "season_id": 41936,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "电影会死吗？",
+        "title": "大世界扭蛋机 · 特别篇：明日之后",
+        "title_icon": ""
+      },
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/98a63ec80db80d9cc4f0ec6c0ae0189743de2639.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/2f367f52ff180cacb5666f8568e46e9d5a09d478.jpg",
+          "ep_id": 384789
+        },
+        "index_show": "2020年12月31日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss37947?theme=movie",
+        "media_id": 28233626,
+        "order": "8476.6万次播放",
+        "order_type": "2",
+        "score": "8.0",
+        "season_id": 37947,
+        "season_status": 8,
+        "season_type": 2,
+        "subTitle": "B站独播 笑爆新春",
+        "title": "温暖的抱抱",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员特价",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员特价"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/27d81ada97cf499ec3b13a6f7db3ab71ada8c3c5.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/cefaeb5df3842d0d3d71c621c620d61377b4680a.jpg",
+          "ep_id": 568671
+        },
+        "index_show": "2022年4月3日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss41742?theme=movie",
+        "media_id": 28237464,
+        "order": "7893.6万次播放",
+        "order_type": "2",
+        "score": "7.0",
+        "season_id": 41742,
+        "season_status": 8,
+        "season_type": 2,
+        "subTitle": "德古拉变身人类",
+        "title": "精灵旅社4：变身大冒险 ",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/33680a2209c4dba76322b2ffeeaf3dd821db576c.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/f98378aca49f68ef124ae3c710dc3a510a162065.png",
+          "ep_id": 332611
+        },
+        "index_show": "2019年11月1日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss33343?theme=movie",
+        "media_id": 28228734,
+        "order": "7299.4万次播放",
+        "order_type": "2",
+        "score": "9.6",
+        "season_id": 33343,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "现在起要放晴了！",
+        "title": "天气之子",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/5bee2f7688f4264c6cdbb983aec0205b6b7c9d3b.jpg",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/70852cd9e733c0ba5ce9f69a1bc60dd14a72dda0.jpg",
+          "ep_id": 287966
+        },
+        "index_show": "2019年9月7日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss28198?theme=movie",
+        "media_id": 28221675,
+        "order": "7102万次播放",
+        "order_type": "2",
+        "score": "9.6",
+        "season_id": 28198,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "小黑来了，喵！",
+        "title": "罗小黑战记",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/2cfddc6b0d0f1628759aff235a44af3361dcf6a5.png",
+        "first_ep": {
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/964eb27f37351cf697e426052b116c8cb0f37582.png",
+          "ep_id": 736477
+        },
+        "index_show": "2023年1月22日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss44510?theme=movie",
+        "media_id": 28480936,
+        "order": "7061.5万次播放",
+        "order_type": "2",
+        "score": "8.0",
+        "season_id": 44510,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "好笑不累，家最珍贵",
+        "title": "交换人生",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/dd9a113e724e3c60dc2da31562e45d57e3c2d707.jpg",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/faa5f26076ad01937f33959a217969b29e145280.jpg",
+          "ep_id": 280975
+        },
+        "index_show": "2001年11月4日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss28281?theme=movie",
+        "media_id": 28221973,
+        "order": "7049.1万次播放",
+        "order_type": "2",
+        "score": "9.8",
+        "season_id": 28281,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "霍格沃茨开学了！",
+        "title": "哈利·波特与魔法石",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/0c65b23a92ea20115147df841cdfaa3e4b1170df.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/dc544168dbe0fc4b3389305b606656a0cc0e4d1e.png",
+          "ep_id": 313572
+        },
+        "index_show": "2004年12月23日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss32523?theme=movie",
+        "media_id": 28227820,
+        "order": "6864.4万次播放",
+        "order_type": "2",
+        "score": "9.9",
+        "season_id": 32523,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "周星驰经典动作喜剧",
+        "title": "功夫",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ee5e1cea45fb742c77d17c1b2d115f09508a878.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/e996312e8d713fbbfe0e065dc6bcf7ddb0d45cab.jpg",
+          "ep_id": 744327
+        },
+        "index_show": "2023年1月22日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss44847?theme=movie",
+        "media_id": 28480858,
+        "order": "6839.1万次播放",
+        "order_type": "2",
+        "score": "9.8",
+        "season_id": 44847,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "国产科幻巨制",
+        "title": "流浪地球2",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/ded994dab56692bd702a0b8d9274727926a2d489.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/f701da6badcad9288a29887c2507156ab14a7867.png",
+          "ep_id": 493071
+        },
+        "index_show": "2022年2月1日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss41540?theme=movie",
+        "media_id": 28237249,
+        "order": "6818.4万次播放",
+        "order_type": "2",
+        "score": "",
+        "season_id": 41540,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "韩寒新作全网独播",
+        "title": "四海",
+        "title_icon": ""
+      },
+      {
+        "badge": "独家",
+        "badge_info": {
+          "bg_color": "#00C0FF",
+          "bg_color_night": "#0B91BE",
+          "text": "独家"
+        },
+        "badge_type": 1,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/db6c0af1b1d2ab073c080e43c154978a5cbf01c3.jpg",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/148601f715077714aac614ba5a80a484edb67494.png",
+          "ep_id": 366580
+        },
+        "index_show": "2020年9月25日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss34353?theme=movie",
+        "media_id": 28229812,
+        "order": "6801.1万次播放",
+        "order_type": "2",
+        "score": "9.1",
+        "season_id": 34353,
+        "season_status": 8,
+        "season_type": 2,
+        "subTitle": "金鸡奖最佳故事片",
+        "title": "夺冠",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7cae69882325170b9b8ae43d350b2d19199ab3b7.jpg",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/eaf1d1dd3dffcd7c44ec7c98e389fabeca643b94.jpg",
+          "ep_id": 250583
+        },
+        "index_show": "1998年6月5日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss25812?theme=movie",
+        "media_id": 139772,
+        "order": "6439万次播放",
+        "order_type": "2",
+        "score": "9.9",
+        "season_id": 25812,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "给世界直播私生活",
+        "title": "楚门的世界",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/3a450129562bdeba90bc676789b7177f62946d09.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/1f0bb3d27d58c5c75ec3df9021dad42463992b67.jpg",
+          "ep_id": 752156
+        },
+        "index_show": "2022年8月6日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss45003?theme=movie",
+        "media_id": 28368476,
+        "order": "5906万次播放",
+        "order_type": "2",
+        "score": "8.5",
+        "season_id": 45003,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "红发歌姬乌塔登场",
+        "title": "航海王：红发歌姬",
+        "title_icon": ""
+      },
+      {
+        "badge": "会员专享",
+        "badge_info": {
+          "bg_color": "#FB7299",
+          "bg_color_night": "#D44E7D",
+          "text": "会员专享"
+        },
+        "badge_type": 0,
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/148ce78a89d132edf6f98f1c8b89efc9cb03d990.png",
+        "first_ep": {
+          "cover": "http://i0.hdslb.com/bfs/archive/4b346856b48f2bf533e9ea1b789e19c2946de52b.jpg",
+          "ep_id": 431855
+        },
+        "index_show": "2019年10月11日上映",
+        "is_finish": 1,
+        "link": "https://www.bilibili.com/bangumi/play/ss39965?theme=movie",
+        "media_id": 28235665,
+        "order": "5656.2万次播放",
+        "order_type": "2",
+        "score": "9.5",
+        "season_id": 39965,
+        "season_status": 13,
+        "season_type": 2,
+        "subTitle": "怪诞哥特喜剧动画",
+        "title": "亚当斯一家",
+        "title_icon": ""
+      }
+    ],
+    "num": 1,
+    "size": 20,
+    "total": 5817
+  },
+  "message": "success"
+}
